@@ -124,7 +124,7 @@ Tampilan pada browser
 ![SS](https://github.com/rangs24/Lab5Web/blob/master/ss30.png)
 
 # TUGAS
-1. [JawabanTugas](https://github.com/rangs24/Lab5Web/blob/master/tugas.html
+1. [JawabanTugas](https://github.com/rangs24/Lab5Web/blob/master/tugas.html)
 
 ![SS](https://github.com/rangs24/Lab5Web/blob/master/ss31.png)
 ![SS](https://github.com/rangs24/Lab5Web/blob/master/ss32.png)
